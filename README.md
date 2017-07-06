@@ -1,5 +1,5 @@
 # MinesweeperExcel
-A version of Minesweeper created in an excel spreadsheet with VBA To see the code open the file in Excel and go to the VBA IDE.
+A version of Minesweeper created in an Excel spreadsheet with VBA To see the code open the file in Excel and go to the VBA IDE.
 
 # How to Play:
 - Double click to uncover a square.
