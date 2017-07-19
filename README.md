@@ -8,6 +8,6 @@ A version of Minesweeper created in an Excel spreadsheet with VBA To see the cod
 
 
 # Notes:
-This was the first thing I ever created with programming! It was towards the end of 2013 when I had started a job as a graduate mechanical engineer and had very little to do. I started learning how to program macros in Excel and used this became my pet project.
+This was the first thing I ever created with programming! I did it when I had started my job as a graduate mechanical engineer with Jaguar Land Rover and initially wasn't very busy. I saw how useful macros in Excel were in my team so I started learning how to program them and this became my pet project.
 
 I was working on adding a high score table, but it remains unfinished as I eventually had to start doing normal engineer work!
